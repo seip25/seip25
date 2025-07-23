@@ -31,10 +31,9 @@ Un Micro-Framework de JavaScript para construir aplicaciones web modernas con un
 ## 📫 Cómo contactarme
 
 - ✉️ Email: [andrespaivasilveiraa@gmail.com](mailto:andrespaivasilveiraa@gmail.com)
-- 💼 LinkedIn: [Andrés Paiva Silveira](https://linkedin.com/in/tuperfil)
+- 💼 LinkedIn: [Andrés Paiva Silveira](https://www.linkedin.com/in/andres-paiva-silveira-88b65a207)
  
 
-## 🔥 Últimos commits
 
-![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila)
-![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila_js)
+![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila&theme=dracula)
+![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila_js&theme=dracula)
