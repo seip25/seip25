@@ -1,6 +1,6 @@
 # 👋 Hola, soy Andrés Paiva Silveira
 
-Desarrollador Web Full Stack.
+## Desarrollador Web Full Stack.
 
 ## 🛠 Tecnologías y Habilidades
 ![PHP](https://img.shields.io/badge/-php-3776AB?logo=php&logoColor=white)
