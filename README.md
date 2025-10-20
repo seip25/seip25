@@ -35,5 +35,4 @@ Un Micro-Framework de CSS para construir con html semantico , basado en picocss 
  
 
 
-![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila&theme=dracula)
-![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila-csss&theme=dracula)
+![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila&theme=dracula) 
