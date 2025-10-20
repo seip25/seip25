@@ -18,7 +18,7 @@
 [![Lila-Framework](https://img.shields.io/badge/-LilaFramework-3776AB?logo=python&logoColor=white)](https://pypi.org/project/lila-framework/)
 Un framework de Python para el desarrollo web moderno. Puedes encontrar la documentación en [https://seip25.github.io/Lila](https://seip25.github.io/Lila).
 
-### [Lila CSS](https://seip25.github.io/lila-css/](https://github.com/seip25/lila-css)) 
+### [Lila CSS](https://seip25.github.io/lila-css/) 
 Un Micro-Framework de CSS para construir con html semantico , basado en picocss y shadcn.
 [https://seip25.github.io/lila-css/](https://seip25.github.io/lila-css/).
 
