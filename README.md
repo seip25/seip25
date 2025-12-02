@@ -14,6 +14,9 @@
 
 ## 🌟 Proyectos Destacados
 
+### [Validate](https://www.npmjs.com/package/@seip/validate)
+Una libreria multilenguajte(español , ingles,frances,portuges) para validaciones sencillas en Javascript.
+
 ### [Lila Framework](https://github.com/seip25/Lila)
 [![Lila-Framework](https://img.shields.io/badge/-LilaFramework-3776AB?logo=python&logoColor=white)](https://pypi.org/project/lila-framework/)
 Un framework de Python para el desarrollo web moderno. Puedes encontrar la documentación en [https://seip25.github.io/Lila](https://seip25.github.io/Lila).
