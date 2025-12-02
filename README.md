@@ -24,15 +24,11 @@ Un Micro-Framework de CSS para construir con html semantico , basado en picocss 
 
  
 
-## 📊 Estadísticas GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=seip25&show_icons=true&theme=dracula)
-
+ 
 ## 📫 Cómo contactarme
 
 - ✉️ Email: [andrespaivasilveiraa@gmail.com](mailto:andrespaivasilveiraa@gmail.com)
 - 💼 LinkedIn: [Andrés Paiva Silveira](https://www.linkedin.com/in/andres-paiva-silveira-88b65a207)
  
 
-
-![Últimos commits](https://github-readme-stats.vercel.app/api/pin/?username=seip25&repo=lila&theme=dracula) 
+ 
