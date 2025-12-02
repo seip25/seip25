@@ -16,6 +16,7 @@
 
 ### [Validate](https://www.npmjs.com/package/@seip/validate)
 Una libreria multilenguajte(español , ingles,frances,portuges) para validaciones sencillas en Javascript.
+https://www.npmjs.com/package/@seip/validate
 
 ### [Lila Framework](https://github.com/seip25/Lila)
 [![Lila-Framework](https://img.shields.io/badge/-LilaFramework-3776AB?logo=python&logoColor=white)](https://pypi.org/project/lila-framework/)
