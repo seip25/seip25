@@ -15,6 +15,7 @@
 ## 🌟 Proyectos Destacados
 
 ### [Validate](https://www.npmjs.com/package/@seip/validate)
+[![Seip/Validate](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)]
 Una libreria multilenguajte(español , ingles,frances,portuges) para validaciones sencillas en Javascript.
 https://www.npmjs.com/package/@seip/validate
 
