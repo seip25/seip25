@@ -28,14 +28,15 @@ Un framework de Python para el desarrollo web moderno. Puedes encontrar la docum
 Un Micro-Framework de CSS para construir con html semantico , basado en picocss y shadcn.
 [https://seip25.github.io/lila-css/](https://seip25.github.io/lila-css/).
 
+### [Blue Bird](https://www.npmjs.com/package/@seip/blue-bird)
+Un framework en express con react island o full page soporte , validaciones, configuraciones y mucho más.
+https://www.npmjs.com/package/@seip/blue-bird
 
 ### [Validate](https://www.npmjs.com/package/@seip/validate)
 Una libreria multilenguajte(español , ingles,frances,portuges) para validaciones sencillas en Javascript.
 https://www.npmjs.com/package/@seip/validate
 
-### [Validate](https://www.npmjs.com/package/@seip/blue-bird)
-Un framework en express con react island o full page soporte , validaciones, configuraciones.
-https://www.npmjs.com/package/@seip/blue-bird
+
 
  
 
