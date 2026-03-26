@@ -22,6 +22,7 @@ https://packagist.org/packages/seip25/lila-php
 
 ### [Lila Framework](https://github.com/seip25/Lila)
 Un framework de Python para el desarrollo web moderno. Puedes encontrar la documentación en [https://seip25.github.io/Lila](https://seip25.github.io/Lila).
+
 https://pypi.org/project/lila-framework/
 
 ### [Blue Bird](https://www.npmjs.com/package/@seip/blue-bird)
