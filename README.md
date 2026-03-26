@@ -17,16 +17,16 @@
 ### [Lila PHP](https://github.com/seip25/LilaPHP)
 Un framework de PHP para el desarrollo web y apis modernas, con soporte React Island o Full Page render.
 https://github.com/seip25/LilaPHP
-
 https://packagist.org/packages/seip25/lila-php
 
 ### [Lila Framework](https://github.com/seip25/Lila)
-[![Lila-Framework](https://img.shields.io/badge/-LilaFramework-3776AB?logo=python&logoColor=white)](https://pypi.org/project/lila-framework/)
 Un framework de Python para el desarrollo web moderno. Puedes encontrar la documentación en [https://seip25.github.io/Lila](https://seip25.github.io/Lila).
+https://pypi.org/project/lila-framework/
 
 ### [Blue Bird](https://www.npmjs.com/package/@seip/blue-bird)
 Un framework en express con react island o full page soporte , validaciones, configuraciones y mucho más.
 https://www.npmjs.com/package/@seip/blue-bird
+https://seip25.github.io/Blue-bird/
 
 ### [Validate](https://www.npmjs.com/package/@seip/validate)
 Una libreria multilenguajte(español , ingles,frances,portuges) para validaciones sencillas en Javascript.
