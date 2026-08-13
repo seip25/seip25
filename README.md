@@ -6,12 +6,16 @@
 ![PHP](https://img.shields.io/badge/-php-3776AB?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![LilaFramework](https://img.shields.io/badge/-LilaFramework-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## 🌟 Alguno de mis proyectos 
 
@@ -19,6 +23,9 @@
 Un framework de Python para el desarrollo web moderno. Puedes encontrar la documentación en [https://seip25.github.io/Lila](https://seip25.github.io/Lila).
 
 https://pypi.org/project/lila-framework/
+
+### [Blue Bird CSS](https://github.com/seip25/Blue-bird-css)
+Un framework CSS semántico para el diseño web. Puedes encontrar la documentación en [https://seip25.github.io/Blue-bird-css/](https://seip25.github.io/Blue-bird-css/).
 
 ## 📫 Cómo contactarme
 
