@@ -1,9 +1,13 @@
-# 👋 Hola, soy Andrés Paiva Silveira
+# 👋 Hola, soy Andrés Paiva Silveira 🇺🇾
 
-## Desarrollador Web Full Stack.
+Desarrollador Full Stack de Uruguay enfocado en la excelencia técnica y la arquitectura de software. 
+
+- 💼 **Desarrollo Enterprise (5+ años)**: Diseño y optimización de aplicaciones web y móviles de gran escala a nivel global, trabajando con APIs RESTful, microservicios y sistemas de alta disponibilidad para millones de usuarios.
+- 🚀 **Desarrollo Independiente**: Creador de soluciones web, frameworks y herramientas propias (*Lila Framework*, *Blue Bird CSS*).
+- 🖥️ **Infraestructura Crítica (8 años)**: Sólida base técnica previa en servidores, redes y hardware, permitiéndome construir software optimizado desde el nivel de infraestructura.
 
 ## 🛠 Tecnologías y Habilidades
-![PHP](https://img.shields.io/badge/-php-3776AB?logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-3776AB?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![LilaFramework](https://img.shields.io/badge/-LilaFramework-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
@@ -17,7 +21,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-## 🌟 Alguno de mis proyectos 
+## 🌟 Proyectos Destacados
 
 ### [Lila Framework](https://github.com/seip25/Lila)
 Un framework de Python para el desarrollo web moderno. Puedes encontrar la documentación en [https://seip25.github.io/Lila](https://seip25.github.io/Lila).
@@ -27,10 +31,12 @@ https://pypi.org/project/lila-framework/
 ### [Blue Bird CSS](https://github.com/seip25/Blue-bird-css)
 Un framework CSS semántico para el diseño web. Puedes encontrar la documentación en [https://seip25.github.io/Blue-bird-css/](https://seip25.github.io/Blue-bird-css/).
 
+## ⚡ Intereses
+- 💻 **Software**: Nuevos paradigmas y arquitecturas desacopladas.
+- 🎨 **Diseño**: Minimalismo y desarrollo web semántico.
+- 🎮 **Gaming & Cine**: PC & Consolas | Sci-Fi & Series.
+
 ## 📫 Cómo contactarme
 
 - ✉️ Email: [andrespaivasilveiraa@gmail.com](mailto:andrespaivasilveiraa@gmail.com)
 - 💼 LinkedIn: [Andrés Paiva Silveira](https://www.linkedin.com/in/andres-paiva-silveira-88b65a207)
- 
-
- 
