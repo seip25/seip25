@@ -33,7 +33,7 @@ Un framework CSS semántico para el diseño web. Puedes encontrar la documentaci
 
 ### [Blue Bird ](https://github.com/seip25/Blue-bird)
 Un framework JS Express , con docker(nginx,redis,mysql/psql), cli support,validaciones, middlewares , auth,etc . Puedes encontrar la documentación en [https://seip25.github.io/Blue-bird/](https://seip25.github.io/Blue-bird/).
-[https://www.npmjs.com/package/@seip/blue-bird/](https://www.npmjs.com/package/@seip/blue-bird/
+[https://www.npmjs.com/package/@seip/blue-bird/](https://www.npmjs.com/package/@seip/blue-bird/)
 
 ## ⚡ Intereses
 - 💻 **Software**: Nuevos paradigmas y arquitecturas desacopladas.
