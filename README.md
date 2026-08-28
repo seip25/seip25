@@ -28,10 +28,6 @@ Un framework de Python para el desarrollo web moderno. Puedes encontrar la docum
 
 https://pypi.org/project/lila-framework/
 
-### [Blue Bird ](https://github.com/seip25/Blue-bird)
-Un framework JS Express , con docker(nginx,redis,mysql/psql), cli support,validaciones, middlewares , auth,etc . Puedes encontrar la documentación en [https://seip25.github.io/Blue-bird/](https://seip25.github.io/Blue-bird/).
-[https://www.npmjs.com/package/@seip/blue-bird/](https://www.npmjs.com/package/@seip/blue-bird/)
-
 ### [Blue Bird CSS](https://github.com/seip25/Blue-bird-css)
 Un framework CSS semántico para el diseño web. Puedes encontrar la documentación en [https://seip25.github.io/Blue-bird-css/](https://seip25.github.io/Blue-bird-css/).
 
