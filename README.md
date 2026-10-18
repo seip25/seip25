@@ -28,9 +28,6 @@ Un framework de Python para el desarrollo web moderno. Puedes encontrar la docum
 
 https://pypi.org/project/lila-framework/
 
-### [Blue Bird CSS](https://github.com/seip25/Blue-bird-css)
-Un framework CSS semántico para el diseño web. Puedes encontrar la documentación en [https://seip25.github.io/Blue-bird-css/](https://seip25.github.io/Blue-bird-css/).
-
 
 ## ⚡ Intereses
 - 💻 **Software**: Nuevos paradigmas y arquitecturas desacopladas.
