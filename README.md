@@ -21,12 +21,6 @@ Desarrollador Full Stack de Uruguay enfocado en la excelencia técnica y la arqu
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-## 🌟 Proyectos Destacados
-
-### [Lila Framework](https://github.com/seip25/Lila)
-Un framework de Python para el desarrollo web moderno. Puedes encontrar la documentación en [https://seip25.github.io/Lila](https://seip25.github.io/Lila).
-
-https://pypi.org/project/lila-framework/
 
 
 ## ⚡ Intereses
